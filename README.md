@@ -1,0 +1,1 @@
+This chatbot is designed with the capability to perform searches using Retrieval-Augmented Generation (RAG) on Wikipedia. By leveraging RAG, the chatbot can access and retrieve relevant information directly from Wikipedia articles to answer user queries with a high degree of accuracy and reliability.
